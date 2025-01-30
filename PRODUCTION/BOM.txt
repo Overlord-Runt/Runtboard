@@ -1,0 +1,22 @@
+Bill of Materials for the Runtboard
+
+ 83 Cherry MX switches
+ 166 Mill Max hotswap sockets
+ 85 diodes
+ 2 ec11 rotary encoders
+ 1 ssd1306 0.96" 128x64 oled screen
+ 17 Red 5mm LEDs
+ 9 MX stabilisers
+ 1 meter of wire
+ 1 Orpheus Pico
+ 8 M2 X D4.0 X L4.5 Heatsets
+ 6 M3 X D5.0 X L6.0 Heatsets
+ 8 6mm M2 screws
+ 6 20mm M3 screws
+ 1 USBc-USBc cable
+ 3D printed case
+ 1 PCB
+ 74 1.0u Keycaps
+ 7 2.0u Keycaps
+ 2 2.75u Keycaps
+ 2 Encoder knobs
