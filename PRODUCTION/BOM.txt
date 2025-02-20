@@ -10,7 +10,7 @@ Bill of Materials for the Runtboard
  1 meter of wire
  1 Orpheus Pico
  14 M3 X D5.0 X L6.0 Heatsets
- 8 6mm M2 screws
+ 8 6mm M3 screws
  6 20mm M3 screws
  1 USBc-USBc cable
  3D printed case
