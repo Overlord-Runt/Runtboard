@@ -1,7 +1,7 @@
 Bill of Materials for the Runtboard
 
  83 Cherry MX switches
- 166 Mill Max hotswap sockets
+ 83 hotswap sockets
  85 diodes
  2 ec11 rotary encoders
  1 ssd1306 0.96" 128x64 oled screen
