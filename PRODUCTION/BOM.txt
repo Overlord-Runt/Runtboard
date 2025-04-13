@@ -1,12 +1,12 @@
 Bill of Materials for the Runtboard
 
- 83 Cherry MX switches
+ 83 Cherry MX switches - $24.35/9.36 shipping - https://www.pccasegear.com/products/63447/gateron-g-pro-3-0-red-switch-set-110-pack-keychron
  83 hotswap sockets
  85 diodes
  2 ec11 rotary encoders
  1 ssd1306 0.96" 128x64 oled screen
  17 Red 5mm LEDs
- 9 MX stabilisers
+ 9 MX stabilisers - $9.36 - https://www.pccasegear.com/products/58528/akko-screw-in-stabiliser-white
  1 meter of wire
  1 Orpheus Pico
  14 M3 X D5.0 X L6.0 Heatsets
