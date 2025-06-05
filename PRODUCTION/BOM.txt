@@ -1,7 +1,7 @@
 Bill of Materials for the Runtboard
 
  83 Cherry MX switches - $24.35/9.36 shipping - https://www.pccasegear.com/products/63447/gateron-g-pro-3-0-red-switch-set-110-pack-keychron
- 166 hotswap sockets - $16.50
+ 166 hotswap sockets - $5
  85 diodes - $1.82
  2 ec11 rotary encoders - $3.24
  1 ssd1306 0.96" 128x64 oled screen - self supplied
